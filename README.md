@@ -12,7 +12,7 @@
 
 ### Contributors:
 
-**Team members:** Navdeep Singh, Sara Singh, Shreya Khobragade, Soham De
+**Team members:** Navdeep Singh, Sara Singh, Soham De
 
 **Team lead:** Navdeep Singh
 

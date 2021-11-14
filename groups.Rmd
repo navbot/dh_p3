@@ -1,0 +1,49 @@
+---
+title: "groups_analysis"
+author: "Soham De"
+date: "14/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(stringr)
+library(dplyr)
+library(tidyr)
+library(tidytext)
+library(readr)
+library(stringi)
+library(textclean)
+library(ggplot2)
+library(scales)
+library(plotly)
+library(htmlwidgets)
+```
+
+## Import Datasets
+
+```{r import_csv}
+events_harmony <- read_csv("events_harmony.csv") # Events with religious harmony (event ID, char ID, char)
+char_harmony <- read_csv("char_harmony.csv") # Character details (number, religion, gender)
+charnums_in_harmony <- read_csv("events_harmony_new.csv")
+
+```
+```{r visualize}
+# Create the data for the chart.
+v <- charnums_in_harmony['Single']
+t <- charnums_in_harmony['Group']
+
+#v <- c(1,2,3,4,5)
+#t <- c(6,7,8,9,10)
+# Give the chart file a name.
+png(file = "plot.jpg")
+
+# Plot the bar chart.
+plot(v,type = "o",col = "red", xlab = "Month", ylab = "Rain fall", 
+   main = "Rain fall chart")
+lines(t, type = "o", col = "blue")
+```
