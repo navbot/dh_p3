@@ -1,0 +1,38 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+library(stringr)
+library(dplyr)
+library(tidyr)
+library(tidytext)
+library(readr)
+library(stringi)
+library(textclean)
+library(ggplot2)
+library(scales)
+library(plotly)
+library(htmlwidgets)
+```
+
+
+```{r import_csv}
+harmony_events <- read_csv("final.csv")
+```
+
+```{r harmony_stats}
+h_individuals <- harmony_events %>% filter(Individual >= 1, Group == 0) %>% mutate(total = NROW(h_individuals)) %>% mutate(Interaction = "Individuals")
+
+h_individual_and_group <- harmony_events %>% filter(Individual >= 1, Group >= 1) %>% mutate(total = NROW(h_individual_and_group)) %>% mutate(Interaction = "Individuals and Groups")
+
+h_groups <- harmony_events %>% filter(Individual == 0, Group >= 1) %>% mutate(total = NROW(h_groups)) %>% mutate (Interaction = "Groups")
+```
+
+
+```{r}
+combined_table <- bind_rows(h_individuals, h_individual_and_group, h_groups)
+comparison <- ggplot(data = combined_table, aes(x = Interaction, y = total))
+comparison
+```
+
