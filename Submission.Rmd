@@ -42,7 +42,7 @@ Is the theme of religious harmony in partition literature represented more frequ
 ```{r include = FALSE}
 crosstabs1 <- read_csv("crosstabs1.csv") 
 ```
-```{r}
+```{r echo=FALSE}
 htmlTable(crosstabs1, cgroup= c(" ","Atheist", "Christian", "Hindu", "Muslim", "Sikh", "Unknown", "Totals"), n.cgroup = c(1,3,3,3,3,3,3,3))
 ```
 
