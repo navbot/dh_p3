@@ -8,7 +8,7 @@ output:
     toc_depth: 5
     collapsed: true
 ---
-```{r}
+```{r include=FALSE}
 library(readr)
 ```
 
@@ -33,10 +33,31 @@ Is the theme of religious harmony in partition literature represented more frequ
 **(b)** We filter events for religious harmony then iterate through each character involved in these harmonious events, categorising them as above, but also across their religion as mentioned in the DB. This was done in ```R``` and ```Python```.
 
 ### Crosstabs
-```{r}
+```{r include = FALSE}
 crosstabs1 <- read_csv("crosstabs1.csv")
 ```
 
 
 
 ### Analysis
+
+
+### Visualizations
+
+![Plurality of Characters in Harmonious Events](plot_1.png)
+There are 88 events (x-axis) with religious harmony in the Partition Database. For each of these events, we count the number of characters and their plurality (single, group, male-dominated or female-dominated). From this plot, it is evident that for all events demonstrating religious harmony, the characters involved are distinguishable individuals. The frequency of Male and Female dominated Groups are marginal and present only for completeness -- we do not infer any valuable insights from them. 
+
+It appears to be a common trend in fiction to represent themes like harmony and discord through individuals for the reader to cathect and relate to. This is consistent with this visualisation.
+
+Note that:
+
+* The columns in the plot aren’t stacked, they are overlaid on top of each other with a transparent color.
+* The **Group** category refers to groups of characters where the dominant gender of the group is unclear from the context. It is not a superset of male-dominated and female-dominated groups.
+
+![Plurality of Characters in Harmonious Events](plot_2.png)
+The second plot establishes the fact that the trend of harmonious themes being represented through individuals is consistent irrespective of the religious affiliation of the individual or group. We see that for all religious affiliations represented by the characters in harmonious events, distinguishable individual characters appear far more frequently than groups (of either gender-dominance). 
+
+Note that:
+
+* The columns in the plot aren’t stacked, they are overlaid on top of each other with a transparent color.
+* The ‘Group’ category refers to groups of characters where the dominant gender of the group is unclear from the context. It is not a superset of male-dominated and female-dominated groups. 
