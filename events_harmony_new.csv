@@ -1,0 +1,89 @@
+,Event H-ID,Harmony,Characters(s) in Event H-ID,Characters(s) in Event RecordTitle,Single,Group,Group.Male-dominant,Group.Female-dominant
+0,398,Religion,248,"Sahukars, Pooro in Pinjar",1,0,0,0
+1,522,Religion,248|445|519,"Sahukars, Pooro in Pinjar|Shaikh, Javed in Pinjar|Unknown, mad-woman's child in Pinjar",3,0,0,0
+2,523,Religion,248|293|516,"Sahukars, Pooro in Pinjar|Village Women, Unkown in Pinjar|Elders of the Panchayat, Unknown in Pinjar",1,0,1,1
+3,631,Religion,248|282,"Sahukars, Pooro in Pinjar|Chand, Ram in Pinjar",2,0,0,0
+4,977,Religion,816,"The singing group, Unknown in Tamas",0,1,0,0
+5,994,Religion,820|816,"Congress Committee Member (part of singing group), Bakshi in Tamas|The singing group, Unknown in Tamas",1,1,0,0
+6,1034,Religion|Gender|Caste,1030|1031,"Rakha, Allah in Tamas|Daughter of Chaprasi's Pandit, Prakasho in Tamas",2,0,0,0
+7,1254,Religion,185|963|618|619|965|966|628,"Servant to Murad Ali, Nathu in Tamas|Sahib, Mahmud in Tamas|Congress Committee secretary, Bakhshi in Tamas|Ahmad, Congress Committee Member, Aziz in Tamas|Congress Committee Member, Hakim Ji in Tamas|Congress President, Maulana Azad in Tamas|Congress Committee Member (part of singing group), The General in Tamas",7,0,0,0
+8,1315,Religion,225|91|657|186,"Group of muslim men with Ramzan, Unknown in Tamas|Ali, Ramzan in Tamas|Singh, Iqbal in Tamas|Deen, Noor in Tamas",3,0,1,0
+9,1323,Religion,91|186|225|657|1322,"Ali, Ramzan in Tamas|Deen, Noor in Tamas|Group of muslim men with Ramzan, Unknown in Tamas|Singh, Iqbal in Tamas|Mullah from the Mosque, Unknown in Tamas",4,0,1,0
+10,1325,Religion,225|91|657|692,"Group of muslim men with Ramzan, Unknown in Tamas|Ali, Ramzan in Tamas|Singh, Iqbal in Tamas|Village Elder, Unknown in Tamas",3,0,1,0
+11,1405,Religion,998,"Baksh, Mullah Imam in Train to Pakistan",1,0,0,0
+12,1406,Religion,758,"Singh, Meet in Train to Pakistan",1,0,0,0
+13,1408,Religion,998|758|768|757|759|760|698,"Baksh, Mullah Imam in Train to Pakistan|Singh, Meet in Train to Pakistan|Singh, Banta in Train to Pakistan|Young Villager, Unknown in Train to Pakistan|Father of Young Villager, Unknown in Train to Pakistan|Policeman 1 (Gurudwara), Unknown in Train to Pakistan|Men from Mano-Majra, Unknown in Train to Pakistan",6,0,1,0
+14,1415,Religion,998|768|758|698,"Baksh, Mullah Imam in Train to Pakistan|Singh, Banta in Train to Pakistan|Singh, Meet in Train to Pakistan|Men from Mano-Majra, Unknown in Train to Pakistan",3,0,1,0
+15,1439,Religion,806|1445,"Mano Majra Muslims, Unknown in Train to Pakistan|Mano Majra Sikhs, Unknown in Train to Pakistan",0,2,0,0
+16,1458,Religion,118|1012,"Nooran, Unknown in Train to Pakistan|Singh (Juggut's Mother), Beybey in Train to Pakistan",2,0,0,0
+17,1515,Religion,120|1468,"Chand, Hukum in Train to Pakistan|Subinspector, Unknown in Train to Pakistan",2,0,0,0
+18,1521,Religion,1520,"Second villager who came tp report about the river, Unknown in Train to Pakistan",1,0,0,0
+19,1525,Religion,1143|768,"One of the watchmen, Karnaila in Train to Pakistan|Singh, Banta in Train to Pakistan",2,0,0,0
+20,1577,Religion,758,"Singh, Meet in Train to Pakistan",1,0,0,0
+21,1579,Religion,758|768|1587|129,"Singh, Meet in Train to Pakistan|Singh, Banta in Train to Pakistan|Sahib, Sardar in Train to Pakistan|Malli, Unknown in Train to Pakistan",4,0,0,0
+22,1833,Religion,317|343|484,"Hasan, Laila in Sunlight on a Broken Column|Unknown, Jumman in Sunlight on a Broken Column|Unknown, Saliman in Sunlight on a Broken Column",3,0,0,0
+23,1852,Religion,317|343|349|1794,"Hasan, Laila in Sunlight on a Broken Column|Unknown, Jumman in Sunlight on a Broken Column|Unknown, Jumman's wife in Sunlight on a Broken Column|Unknown, Nizaman in Sunlight on a Broken Column",4,0,0,0
+24,2032,Religion|Interpersonal|Gender,580|596,"Sahukars, Lajo in Pinjar|Lajo's Abductor, Son in Pinjar",2,0,0,0
+25,2208,Religion,758|1138|760|1212,"Singh, Meet in Train to Pakistan|Head Constable, Unknown in Train to Pakistan|Policeman 1 (Gurudwara), Unknown in Train to Pakistan|Mano Majra Villagers, Unknown in Train to Pakistan",3,1,0,0
+26,2210,Religion,487|485|2202|486|483|484|2207|318|317|319,"Unknown, Asad in Sunlight on a Broken Column|Unknown, Ustaniji in Sunlight on a Broken Column|Maid-servants, Unknown in Sunlight on a Broken Column|Unknown, Hajjan Bibi in Sunlight on a Broken Column|Unknown, Ramzano in Sunlight on a Broken Column|Unknown, Saliman in Sunlight on a Broken Column|Unknown, Zahid in Sunlight on a Broken Column|Hasan, Zahra in Sunlight on a Broken Column|Hasan, Laila in Sunlight on a Broken Column|Unknown, Hakiman in Sunlight on a Broken Column",9,1,0,0
+27,2231,Religion,1481|758,"Sikh Peasants of Mano Majra, Unknown in Train to Pakistan|Singh, Meet in Train to Pakistan",1,1,0,0
+28,2236,Religion,758|1481,"Singh, Meet in Train to Pakistan|Sikh Peasants of Mano Majra, Unknown in Train to Pakistan",1,1,0,0
+29,2272,Religion,753|1468|112|2376,"Unknown, Iqbal in Train to Pakistan|Subinspector, Unknown in Train to Pakistan|Singh, Juggut in Train to Pakistan|Constable 5 who brings chair, Unknown in Train to Pakistan",4,0,0,0
+30,2275,Religion,768|1481,"Singh, Banta in Train to Pakistan|Sikh Peasants of Mano Majra, Unknown in Train to Pakistan",1,1,0,0
+31,2278,Religion,768|1481,"Singh, Banta in Train to Pakistan|Sikh Peasants of Mano Majra, Unknown in Train to Pakistan",1,1,0,0
+32,2290,Religion,317|318|483|484|316|315,"Hasan, Laila in Sunlight on a Broken Column|Hasan, Zahra in Sunlight on a Broken Column|Unknown, Ramzano in Sunlight on a Broken Column|Unknown, Saliman in Sunlight on a Broken Column|Hasan, Majida in Sunlight on a Broken Column|Hasan, Abida in Sunlight on a Broken Column",6,0,0,0
+33,2341,Religion,998|768|758|852|1481,"Baksh, Mullah Imam in Train to Pakistan|Singh, Banta in Train to Pakistan|Singh, Meet in Train to Pakistan|Dina, Khair in Train to Pakistan|Sikh Peasants of Mano Majra, Unknown in Train to Pakistan",4,1,0,0
+34,2344,Religion,1481|998|768|852|758,"Sikh Peasants of Mano Majra, Unknown in Train to Pakistan|Baksh, Mullah Imam in Train to Pakistan|Singh, Banta in Train to Pakistan|Dina, Khair in Train to Pakistan|Singh, Meet in Train to Pakistan",4,1,0,0
+35,2348,Religion,998|758|1481|758|852,"Baksh, Mullah Imam in Train to Pakistan|Singh, Meet in Train to Pakistan|Sikh Peasants of Mano Majra, Unknown in Train to Pakistan|Singh, Meet in Train to Pakistan|Dina, Khair in Train to Pakistan",4,1,0,0
+36,2352,Religion,806|1445|1481|768|998|758,"Mano Majra Muslims, Unknown in Train to Pakistan|Mano Majra Sikhs, Unknown in Train to Pakistan|Sikh Peasants of Mano Majra, Unknown in Train to Pakistan|Singh, Banta in Train to Pakistan|Baksh, Mullah Imam in Train to Pakistan|Singh, Meet in Train to Pakistan",3,3,0,0
+37,2375,Religion,768|998|758|1212|852,"Singh, Banta in Train to Pakistan|Baksh, Mullah Imam in Train to Pakistan|Singh, Meet in Train to Pakistan|Mano Majra Villagers, Unknown in Train to Pakistan|Dina, Khair in Train to Pakistan",4,1,0,0
+38,2386,Religion,753,"Unknown, Iqbal in Train to Pakistan",1,0,0,0
+39,2390,Religion,753|758,"Unknown, Iqbal in Train to Pakistan|Singh, Meet in Train to Pakistan",2,0,0,0
+40,2392,Religion,317|318|2379|2380|2381|2382|2384|2385|2383|2387|2388|980|2281,"Hasan, Laila in Sunlight on a Broken Column|Hasan, Zahra in Sunlight on a Broken Column|Kunwar of Deorai, Unknown in Sunlight on a Broken Column|Abbas, Syed Ali in Sunlight on a Broken Column|Raja of Bilsa, Unknown in Sunlight on a Broken Column|Maharajkumar, Vijaya Singh in Sunlight on a Broken Column|Younger brother of Maharajkumar Vijaya Singh, Unknown in Sunlight on a Broken Column|Young Nationalist Taluqdars, Unknown in Sunlight on a Broken Column|Rajkumar of Harwan, Unknown in Sunlight on a Broken Column|Nath, Rai Bahadaur Pushkar in Sunlight on a Broken Column|Hyder, Nawab Sibte in Sunlight on a Broken Column|Rani Of Phulgaon, Unknown in Sunlight on a Broken Column|English women at Baradari, Unknown in Sunlight on a Broken Column",11,1,0,1
+41,2524,Religion,2519|2398,"Sheikh Noor, Ilahi in Tamas|Narayan, Lala Lakshmi in Tamas",2,0,0,0
+42,2533,Religion,167|2534|2536|618|2402|2539|2540,"Deputy Commissioner, Richard in Tamas|Chaprasi at Deputy Commissioner's Office, Unknown in Tamas|Bakhshi, Bakhsh, Raghunath and others, Unknown in Tamas|Congress Committee secretary, Bakhshi in Tamas|Bakhsh, Hayat in Tamas|Mr Herbert, American Principal of Mission College, Unknown in Tamas|Professor, Raghunath in Tamas",6,0,1,0
+43,2560,Religion,167|618|2536|2539,"Deputy Commissioner, Richard in Tamas|Congress Committee secretary, Bakhshi in Tamas|Bakhshi, Bakhsh, Raghunath and others, Unknown in Tamas|Mr Herbert, American Principal of Mission College, Unknown in Tamas",3,0,1,0
+44,2619,Religion,,,0,0,0,0
+45,2623,Religion,146|713,"Dutt, Dev in Tamas|Muslims, Unknown in Tamas",1,1,0,0
+46,2658,Religion,2398|2659|767|2402|1590|618|2661,"Narayan, Lala Lakshmi in Tamas|Hakim Ghani, Abdul in Tamas|Sikh Gentleman, who reports that a deputation has gone to meet the Deputy Commissioner, Unknown in Tamas|Bakhsh, Hayat in Tamas|Tonga Driver, Unknown in Tamas|Congress Committee secretary, Bakhshi in Tamas|Sardar Singh, Bhishan in Tamas",7,0,0,0
+47,2662,Religion,2398|2402,"Narayan, Lala Lakshmi in Tamas|Bakhsh, Hayat in Tamas",2,0,0,0
+48,2671,Nation|Interpersonal|Religion,2402|2458|2659|2661|2398,"Bakhsh, Hayat in Tamas|Maula, Dad in Tamas|Hakim Ghani, Abdul in Tamas|Sardar Singh, Bhishan in Tamas|Narayan, Lala Lakshmi in Tamas",5,0,0,0
+49,2688,Religion,768|998,"Singh, Banta in Train to Pakistan|Baksh, Mullah Imam in Train to Pakistan",2,0,0,0
+50,2689,Religion,998|2690,"Baksh, Mullah Imam in Train to Pakistan|Imam Baksh's Companions, Unknown in Train to Pakistan",1,1,0,0
+51,2693,Religion,118|806,"Nooran, Unknown in Train to Pakistan|Mano Majra Muslims, Unknown in Train to Pakistan",1,1,0,0
+52,2703,Religion,806,"Mano Majra Muslims, Unknown in Train to Pakistan",0,1,0,0
+53,2705,Religion|Interpersonal,1445,"Mano Majra Sikhs, Unknown in Train to Pakistan",0,1,0,0
+54,2706,Interpersonal|Religion,768|1153,"Singh, Banta in Train to Pakistan|Muslim Officer, Unknown in Train to Pakistan",2,0,0,0
+55,2707,Religion|Interpersonal,768|1153,"Singh, Banta in Train to Pakistan|Muslim Officer, Unknown in Train to Pakistan",2,0,0,0
+56,2710,Religion,1155|1212,"Sikh Officer, Unknown in Train to Pakistan|Mano Majra Villagers, Unknown in Train to Pakistan",1,1,0,0
+57,2715,Religion,1445,"Mano Majra Sikhs, Unknown in Train to Pakistan",0,1,0,0
+58,2749,Religion,2751|2411|146|2398,"Principal of Christian College, Lucas Sahib in Tamas|Nawaz, Shah in Tamas|Dutt, Dev in Tamas|Narayan, Lala Lakshmi in Tamas",4,0,0,0
+59,2761,Religion,146|1496|1647|2759|618,"Dutt, Dev in Tamas|Lal, Manohar in Tamas|Ali, Murad in Tamas|Congress Candidate, Mangal Sen in Tamas|Congress Committee secretary, Bakhshi in Tamas",5,0,0,0
+60,2819,Religion,248,"Sahukars, Pooro in Pinjar",1,0,0,0
+61,2908,Interpersonal|Religion,248|282,"Sahukars, Pooro in Pinjar|Chand, Ram in Pinjar",2,0,0,0
+62,2909,Religion,297|248|574,"Shaikh, Rashida in Pinjar|Sahukars, Pooro in Pinjar|Young Refugee Girl, Unknown in Pinjar",3,0,0,0
+63,2987,Religion,,,0,0,0,0
+64,3004,Religion,317,"Hasan, Laila in Sunlight on a Broken Column",1,0,0,0
+65,3027,Religion,120|729,"Chand, Hukum in Train to Pakistan|Begum, Haseena in Train to Pakistan",2,0,0,0
+66,3441,Religion,3310|3294|3321|3246,"Hai, Sughra in The Assignment|Hai, Mian Abdul Hai, Mian Sahib, the judge in The Assignment|Singh, Santokh in The Assignment|Hai, Basharat in The Assignment",4,0,0,0
+67,3446,Religion,3321|3310,"Singh, Santokh in The Assignment|Hai, Sughra in The Assignment",2,0,0,0
+68,3456,Religion,3321|3455,"Singh, Santokh in The Assignment|Four Men, Unknown in The Assignment",1,0,1,0
+69,3461,Religion,3310,"Hai, Sughra in The Assignment",1,0,0,0
+70,3534,Religion,3221|3492|3500,"Blacksmith, Dina in Savage Harvest|Blacksmith, Bashir's mother in Savage Harvest|Brahmin Family, Brahmin's wife in Savage Harvest",3,0,0,0
+71,3661,Interpersonal|Religion,3603|3608|3605,"Narrator, Unknown in Gul Mohammad Third-Timer|Narrator's mother, Unknown in Gul Mohammad Third-Timer|Mohammad, Gul Mohammad's Father in Gul Mohammad Third-Timer",3,0,0,0
+72,3686,Religion,3687|5336,"Inmate 1, Unknown in Toba Tek Singh|Asylum Guards, Unknown in Toba Tek Singh",1,1,0,0
+73,3699,Religion,3551,"Hindu Lawyer, Unknown in Toba Tek Singh",1,0,0,0
+74,4439,Religion,4403|4404,"Landless labourers, Unknown in Sikhism|Landlords, Unknown in Sikhism",0,2,0,0
+75,4440,Religion,4403|4405,"Landless labourers, Unknown in Sikhism|Singh, Zaildar Chet in Sikhism",1,1,0,0
+76,4478,Religion,4411|4421|4423|4427,"Narrator, Unknown in Sikhism|Singh, Dhanwant in Sikhism|Singh, Gurpratap in Sikhism|Labourers, Unknown in Sikhism",3,0,1,0
+77,4627,Religion,4206,"Azad, Mohammad Hanif in Jinnah Sahib",1,0,0,0
+78,4803,Religion,4755|4416|4749|4776,"Narrator, Unknown in Of One Community|Narrator's Mother, Unknown in Sikhism|Narrator's Wife, Simran in Of One Community|Hussain's Wife, Unknown in Of One Community",4,0,0,0
+79,4804,Religion,4755|4749|4416|4776|4754,"Narrator, Unknown in Of One Community|Narrator's Wife, Simran in Of One Community|Narrator's Mother, Unknown in Sikhism|Hussain's Wife, Unknown in Of One Community|Hussain, Shaukat in Of One Community",5,0,0,0
+80,4965,Religion,4811|4969|4970|4971|4973|4968|4962|4972,"Unknown Narrator, Abnash in The Parade|Rioter 01, Unknown in The Parade|Spectator at riots 01, Unknown in The Parade|Spectator at riots 02, Unknown in The Parade|2 (naked) Muslim girls, Unknown in The Parade|Crowd observing rioters, Unknown in The Parade|Rioters destroying muslim property, Unknown in The Parade|Drum Beater at Riots, Unknown in The Parade",5,1,1,1
+81,4974,Religion,4811|4975|4973,"Unknown Narrator, Abnash in The Parade|Abnash's Son, Gurdeep in The Parade|2 (naked) Muslim girls, Unknown in The Parade",2,0,0,1
+82,5135,Religion,,,0,0,0,0
+83,5456,Nation|Religion,5358|5359|5379,"Ahmad, Bashir in Azaan|Musali, Fattu in Azaan|Singh, Harnam in Azaan",3,0,0,0
+84,5458,Religion,5358|5359|5380,"Ahmad, Bashir in Azaan|Musali, Fattu in Azaan|Mulla, Unknown in Azaan",3,0,0,0
+85,5460,Religion,5379|5358|5359,"Singh, Harnam in Azaan|Ahmad, Bashir in Azaan|Musali, Fattu in Azaan",3,0,0,0
+86,5632,Religion,5591,"Narrator, Prabhdayal in The Border",1,0,0,0
+87,5637,Religion,5591|5589|5595,"Narrator, Prabhdayal in The Border|Unknown, Grandfather in The Border|Mother's Widowed Sister, Unknown in The Border",3,0,0,0
